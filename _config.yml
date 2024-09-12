@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "avatar.jpg"
-  name             : "Xiaofan Lu"
+  name             : "Xiaofan Lu, PhD"
   pronouns         : # example: "she/her"  
   bio              : "A bioinformatics/biostatistics PhD currently engaged in postdoctoral research at the IGBMC."
   location         : "Strasbourg, France"
@@ -35,9 +35,9 @@ author:
   googlescholar    : "https://scholar.google.com.hk/citations?user=Er4NVVcAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-2417-6548"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Xiaofan-Lu-5"
+  #semantic         : # URL
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #researchgate     : "https://www.researchgate.net/profile/Xiaofan-Lu-5"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

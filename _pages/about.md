@@ -1,33 +1,27 @@
 ---
 permalink: /
-title: "Dr. Xiaofan LU - Bioinformatics Scientist & Biostatistician"
+title: "Data Scientist & Biostatistician"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, I'm Xiaofan, a Bioinformatics Scientist and Biostatistician specializing in cancer genomics and precision oncology.
+Hi, I’m Xiaofan, a data scientist of bioinformatics and biostatistics, specializing in cancer genomics and precision oncology.
 
-Currently, I'm working as a Postdoctoral Fellow at [IGBMC](https://www.igbmc.fr/igbmc) (L'Institut de Génétique et de Biologie Moléculaire et Cellulaire) in Strasbourg, France. Here is my [Curriculum Vitae](https://github.com/SidUParis/lux.github.io/assets/Curriculum_vitae.docx).
+Currently, I'm working as a Postdoctoral Fellow at [IGBMC](https://www.igbmc.fr/igbmc) (L'Institut de Génétique et de Biologie Moléculaire et Cellulaire) in Strasbourg, France. Here is my [Curriculum Vitae](../assets/Curriculum_vitae.docx).
 
 ## Research Interests
 
-My research focuses on:
-- Multi-omics integration in cancer research
-- Advanced molecular classification methods
-- Predicting immunotherapy response in clear cell renal cell carcinoma
-- Development of bioinformatics tools for cancer research
+- Multi-omics integration in cancer heterogeneity research
+- Biomarker identification in predicting immunotherapy response in clear-cell renal cell carcinoma with real-world clinical trial data
+- In-silico identification of new therapeutic targets for renal cell carcinoma
 
 ## Current Work
 
-At IGBMC, I'm part of the Molecular and Translational Oncology team under the supervision of Pr. Gabriel Malouf. Our work involves cutting-edge research in cancer genomics, with a particular focus on urothelial and renal carcinomas.
+At IGBMC, I am a member of the [Molecular and Translational Oncology](https://www.igbmc.fr/en/recherche/teams/molecular-and-translational-oncology) team, led by Professor [Gabriel Malouf](https://scholar.google.fr/citations?user=OTn9RJ4AAAAJ&hl=en), a distinguished physician-scientist specializing in kidney cancer. Our work involved cutting-edge research in cancer genomics, with particular focus on urothelial and renal carcinomas and rare cancers. We aim to deepen our understanding of tumor heterogeneity and pathogenesis, with the ultimate goal of pioneering advancements in cancer treatment.
 
-## Achievements
-
-- Developed MOVICS, an R package for multi-omics integration and visualization in cancer subtyping
-- Published in high-impact journals including Nature Communications, Clinical Cancer Research, and Genome Biology
-- Contributed to three Chinese patents for molecular classification of genitourinary system tumors
+## Contributions to science
 
 | Metric                                                     | Count |
 |:-----------------------------------------------------------|------:|
@@ -37,26 +31,12 @@ At IGBMC, I'm part of the Molecular and Translational Oncology team under the su
 | **Citations** (as of 09/09/2024 from Google Scholar)       | 1772  |
 | **Patent**                                                 | 3     |
 | **High-Impact Publications**<br>(IF > 10, including roles as first and co-first author) | 13    |
-| **Featured in Journals** (IF > 10)                         | 8     |
-
-### Featured High-Impact Journals:
-- *Cell Reports Medicine*
-- *Nature Communications*
-- *Clinical Cancer Research*
-- *Genome Biology*
-- *EbioMedicine*
-- *Clinical and Translational Medicine*
-- *American Journal of Respiratory and Critical Care Medicine*
-- *Critical Care*
-
-**ORCID:** 0000-0003-2417-6548
-
 
 ## Education
 
-- Ph.D. in Bioinformatics, China Pharmaceutical University, 2022
-- M.Sc. in Biostatistics, China Pharmaceutical University, 2019
-- B.Sc. in Medical Information Management, China Pharmaceutical University, 2016
+- Ph.D. in Bioinformatics, China Pharmaceutical University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Sep 2019 - Dec 2022
+- M.Sc. in Biostatistics, China Pharmaceutical University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Sep 2016 - Jun 2019  
+- B.Sc. in Medical Information Management, China Pharmaceutical University &emsp;&emsp; Sep 2012 - Jul 2016
 
 ## Professional Experience
 

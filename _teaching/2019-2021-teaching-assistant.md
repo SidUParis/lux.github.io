@@ -1,6 +1,6 @@
 ---
 title: "Teaching Assistant"
-collection: teaching
+collection: mentoring
 type: "Undergraduate and graduate course"
 permalink: /teaching/2019-2021-teaching-assistant
 venue: "China Pharmaceutical University, Research Center of Biostatistics and Computational Pharmacy"
