@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I’m Xiaofan, a data scientist of bioinformatics and biostatistics, specializing in cancer genomics and precision oncology.
 
-Currently, I'm working as a Postdoctoral Fellow at [IGBMC](https://www.igbmc.fr/igbmc) (L'Institut de Génétique et de Biologie Moléculaire et Cellulaire) in Strasbourg, France. Here is my [Curriculum Vitae](../assets/Curriculum_vitae.docx).
+Currently, I'm working as a Postdoctoral Fellow at [IGBMC](https://www.igbmc.fr/igbmc) (L'Institut de Génétique et de Biologie Moléculaire et Cellulaire) in Strasbourg, France. Here is my [Curriculum Vitae](https://github.com/SidUParis/lux.github.io/blob/master/assets/Curriculum_vitae.docx).
 
 ## Research Interests
 
